@@ -32,11 +32,16 @@ From the html, we pulled the data from the table and placed it into a Pandas dat
 From the 1867 martian days of data, we concluded that there are 12 months on Mars ; however, after researching further, we found that there are 24 months on Mars. We were confused that the data given to us from the Curiosity rover was broken down into 12 months instead of 24, but we still based the rest of the project on the fact that there are only 12 months on mars.
 
 The coldest months observed on Mars were months 3 and 4; whereas the warmest months on average were 8 and 9. (Seen below)
+
 ![temp_data](https://github.com/LukeTaylorDS/Mission_to_mars/blob/main/Mission_to_Mars_Challenge/analysis/avg_min_temp_by_month_bar.png?raw=true)
 
+
 The month with the highest atmospheric pressure is month 9, and the month with the lowest is 6. (Seen below)
+
 ![pressure_data](Mission_to_Mars_Challenge/analysis/avg_pressure_by_month_bar.png)
 
+
 Looking at the chart below, we can discern that a Martian year has almost double the number of days of an Earth year. After a quick google search, we found that a Martian year has 687 days. (Seen below)
+
 ![daily_temp_data](Mission_to_Mars_Challenge/analysis/daily_min_temp_tracked_by_Curiosity.png)
 
